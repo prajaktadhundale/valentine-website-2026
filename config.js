@@ -5,16 +5,16 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Pratu",
+    valentineName: "Baby",
 
     // The title that appears in the browser tab
-    // You can use emojis! 💝 💖 💗 💓 💞 💕
+    // You can use emojis! 💝 💖 💗 💓 💞 💕 🥰​😍​💞​💖​🩷​🫶​🙈​💋​
     pageTitle: "Will You Be My Valentine? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓', '🥰','​😍','​💞','​💖','​🩷',​'🫶','​🙈'​,'💋​' ],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine forever baby? 🌹", // The big question!
+            text: "Will you be my Valentine forever? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! You really gave meaning to my name baby! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big hug!",
+        title: "Yay! You really gave meaning to my name! 🎉💝💖💝💓",
+        message: "Now come meet me get your gift and a big hug!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
